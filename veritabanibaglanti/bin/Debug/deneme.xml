@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+  <ogrenci Kimlik="">
+    <Ad>
+    </Ad>
+    <Soyad>
+    </Soyad>
+  </ogrenci>
+  <ogrenci Kimlik="2">
+    <Ad>Berke Zorba</Ad>
+    <Soyad>Baylan</Soyad>
+  </ogrenci>
+  <ogrenci Kimlik="3">
+    <Ad>Erdem</Ad>
+    <Soyad>Akcan</Soyad>
+  </ogrenci>
+  <ogrenci Kimlik="5">
+    <Ad>Fatih </Ad>
+    <Soyad>Mirza</Soyad>
+  </ogrenci>
+  <ogrenci Kimlik="7">
+    <Ad>Emirhan</Ad>
+    <Soyad>Şermet</Soyad>
+  </ogrenci>
+  <ogrenci Kimlik="8">
+    <Ad>Selen</Ad>
+    <Soyad>Eren</Soyad>
+  </ogrenci>
+</ogrenciler>
