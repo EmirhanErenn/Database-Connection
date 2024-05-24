@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Desktop\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\",
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|c:\\users\\excalibur\\desktop\\2023-2024 bahar d\u00F6nemi\\nesne tabanl\u0131 programlama\\\u00E7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|c:\\users\\excalibur\\desktop\\ders\\2023-2024 bahar d\u00F6nemi\\nesne tabanl\u0131 programlama\\\u00E7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|solutionrelative:veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|C:\\Users\\EXCALIBUR\\Desktop\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADB3365B-0B77-48FE-A643-6CD07F29E648}|veritabanibaglanti\\veritabanibaglanti.csproj|solutionrelative:veritabanibaglanti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
               "RelativeDocumentMoniker": "veritabanibaglanti\\Form1.cs",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
               "RelativeToolTip": "veritabanibaglanti\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAA3AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T18:40:11.238Z",
               "EditorCaption": ""
@@ -37,12 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs",
               "RelativeDocumentMoniker": "veritabanibaglanti\\Form1.cs",
-              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-03-13T18:40:11.332Z"
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Desktop\\DERS\\2023-2024 Bahar D\u00F6nemi\\Nesne Tabanl\u0131 Programlama\\\u00C7al\u0131\u015Fmalar\u0131m\\veritabanibaglanti\\veritabanibaglanti\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "veritabanibaglanti\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:40:11.332Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

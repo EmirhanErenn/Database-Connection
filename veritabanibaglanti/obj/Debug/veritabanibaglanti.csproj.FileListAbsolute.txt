@@ -8,3 +8,13 @@ C:\Users\emirh\OneDrive\Masaüstü\2023-2024 Bahar Dönemi\Nesne Tabanlı Progra
 C:\Users\emirh\OneDrive\Masaüstü\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.csproj.CoreCompileInputs.cache
 C:\Users\emirh\OneDrive\Masaüstü\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.exe
 C:\Users\emirh\OneDrive\Masaüstü\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.pdb
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\bin\Debug\veritabanibaglanti.exe.config
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\bin\Debug\veritabanibaglanti.exe
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\bin\Debug\veritabanibaglanti.pdb
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.Form1.resources
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.Properties.Resources.resources
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.exe
+C:\Users\EXCALIBUR\Desktop\2023-2024 Bahar Dönemi\Nesne Tabanlı Programlama\Çalışmalarım\veritabanibaglanti\veritabanibaglanti\obj\Debug\veritabanibaglanti.pdb

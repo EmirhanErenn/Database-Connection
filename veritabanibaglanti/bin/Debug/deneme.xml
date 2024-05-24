@@ -26,4 +26,8 @@
     <Ad>Selen</Ad>
     <Soyad>Eren</Soyad>
   </ogrenci>
+  <ogrenci Kimlik="12">
+    <Ad>Emre</Ad>
+    <Soyad>Gül</Soyad>
+  </ogrenci>
 </ogrenciler>
